@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{B9277AE1-9A42-4CE2-A880-9412664E9FE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CineFlex.Api", "src\CineFlex.Api\CineFlex.Api.csproj", "{9BA95B69-3F70-4D02-ACBF-32E5B15D4983}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{A78B88C7-E1C8-4941-A093-5F30D9127A59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BA95B69-3F70-4D02-ACBF-32E5B15D4983}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BA95B69-3F70-4D02-ACBF-32E5B15D4983}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BA95B69-3F70-4D02-ACBF-32E5B15D4983}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BA95B69-3F70-4D02-ACBF-32E5B15D4983}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9BA95B69-3F70-4D02-ACBF-32E5B15D4983} = {B9277AE1-9A42-4CE2-A880-9412664E9FE5}
+	EndGlobalSection
+EndGlobal

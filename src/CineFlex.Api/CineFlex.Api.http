@@ -1,0 +1,6 @@
+@CineFlex.Api_HostAddress = http://localhost:5064
+
+GET {{CineFlex.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
